@@ -26,28 +26,28 @@ Analysis of standpunkt grades from all Oslo high schools over five academic year
 
 <div align="center">
   <b>Figure 1 — Average Standpunkt Grade per Year</b><br>
-  <img src="Task5_Figure1.png" alt="Average Grade per Year">
+  <img src="Task5_Figure_1.png" alt="Average Grade per Year">
 </div>
 
 The average standpunkt grade across all Oslo schools stayed stable around 4.0 every year — well above the passing threshold of 2. The 2020-21 school year shows a slightly higher average, corresponding to the COVID-19 year when written exams were cancelled nationwide. Grades returned to normal in 2021-22 and have remained stable since.
 
 <div align="center">
   <b>Figure 2 — Average Standpunkt Grade by Subject</b><br>
-  <img src="Task5_Figure2.png" alt="Average Grade per Subject">
+  <img src="Task5_Figure_2.png" alt="Average Grade per Subject">
 </div>
 
 English and oral Norwegian score highest (~4.5), while Maths is the lowest (~3.6). This pattern is consistent with national data from Udir: oral assessments allow students to ask questions and recover from mistakes, while mathematical answers are objectively right or wrong, leaving less room for generous grading.
 
 <div align="center">
   <b>Figure 3 — School Rankings by Average Standpunkt Grade (2024-25)</b><br>
-  <img src="Task5_Figure3.png" alt="School Rankings">
+  <img src="Task5_Figure_3.png" alt="School Rankings">
 </div>
 
 There is roughly 1 full grade point separating the highest and lowest grading schools in Oslo. Top schools like Oslo Katedralskole are selective academic gymnasiums, while bottom schools serve more diverse student populations. A high standpunkt grade does not necessarily mean better student performance — it may also reflect more generous teacher grading.
 
 <div align="center">
   <b>Figure 4 — Written vs. Oral Norwegian Standpunkt (2020–2025)</b><br>
-  <img src="Task5_Figure4.png" alt="Oral vs Written Norwegian">
+  <img src="Task5_Figure_4.png" alt="Oral vs Written Norwegian">
 </div>
 
 Oral Norwegian standpunkt is consistently about 0.5 points higher than written Norwegian, every single year. The gap is stable and does not shrink or grow over time, confirming a structural pattern rather than a one-year anomaly. This directly matches the findings reported by Aftenposten and Udir: oral assessments are graded more generously than written ones.
